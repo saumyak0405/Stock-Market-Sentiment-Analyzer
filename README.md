@@ -151,6 +151,6 @@ It is not financial advice. Always consult a SEBI-registered advisor before inve
 
 ## 👤 Author
 
-**[Your Name]** · B.Tech CSE (Information Security) · 3rd Year  
-[Your College] · Chennai, Tamil Nadu
+**[Saumya Khubchandani]** · B.Tech CSE (Information Security) · 3rd Year  
+[Vellore Insitute Of Technology] · Vellore, Tamil Nadu
 
