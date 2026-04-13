@@ -76,48 +76,9 @@ End-to-end automated pipeline that:
 
 ---
 
-## ⚙️ Setup & Installation
 
-### Step 1: Clone
-```bash
-git clone https://github.com/YOUR_USERNAME/indian-stock-sentiment-analyzer.git
-cd indian-stock-sentiment-analyzer
-```
 
-### Step 2: Virtual environment (Mac/Linux)
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-```
 
-### Step 3: Install dependencies
-```bash
-pip install --upgrade pip
-pip install torch
-pip install -r requirements.txt --ignore-installed torch
-```
-
-### Step 4: Run
-```bash
-streamlit run dashboard.py
-```
-
-Open **http://localhost:8501** in your browser.
-
-> First run downloads FinBERT (~440MB, one time only).
-
----
-
-## 🚀 Deploy Free on Streamlit Cloud
-
-```bash
-git init && git add . && git commit -m "feat: Indian stock sentiment analyzer"
-git remote add origin https://github.com/YOUR_USERNAME/indian-stock-sentiment-analyzer.git
-git push -u origin main
-```
-Then deploy at [share.streamlit.io](https://share.streamlit.io) — free hosting, live URL for your resume.
-
----
 
 ## 🧪 Run Tests
 ```bash
@@ -142,12 +103,7 @@ pytest tests/ -v
 
 ---
 
-## ⚠️ Disclaimer
 
-This tool is for **educational and research purposes only**.
-It is not financial advice. Always consult a SEBI-registered advisor before investing.
-
----
 
 ## 👤 Author
 
