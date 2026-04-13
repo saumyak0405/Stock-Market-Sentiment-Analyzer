@@ -1,0 +1,14 @@
+transformers==4.40.0
+torch==2.2.2
+yfinance==0.2.40
+beautifulsoup4==4.12.3
+requests==2.31.0
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.13.0
+streamlit==1.35.0
+plotly==5.22.0
+feedparser==6.0.11
+python-dotenv==1.0.1
+lxml==5.2.2
+Pillow==10.3.0
